@@ -1,0 +1,10 @@
+﻿  Jednostki.cpp
+  Plansza.cpp
+c:\users\prosz\desktop\kalkulator-zawansowany-master\kalkulator\kalkulator\Plansza.h(1016): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Pomoc.cpp
+  Wykres.cpp
+  Generowanie kodu...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Jednostki.obj : Opcja /DEBUG:FASTLINK nie jest obsługiwana, gdy jest obecny kod zarządzany; konsolidacja jest uruchamiana ponownie z opcją /DEBUG:FULL
+  Kalkulator.vcxproj -> C:\Users\prosz\Desktop\Kalkulator-Zawansowany-master\Kalkulator\Debug\Kalkulator.exe
+  Kalkulator.vcxproj -> C:\Users\prosz\Desktop\Kalkulator-Zawansowany-master\Kalkulator\Debug\Kalkulator.pdb (Partial PDB)
